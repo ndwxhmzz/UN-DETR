@@ -1,4 +1,4 @@
-# UN-DETR Promoting Objectness Learning via Joint Supervision for Unknown Object Detection
+# UN-DETR Promoting Objectness Learning via Joint Supervision for Unknown Object Detection(AAAI2025)
 
 ---
 
