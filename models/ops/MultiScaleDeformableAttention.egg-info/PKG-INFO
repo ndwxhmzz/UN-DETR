@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: MultiScaleDeformableAttention
+Version: 1.0
+Summary: PyTorch Wrapper for CUDA Functions of Multi-Scale Deformable Attention
+Author: Weijie Su
