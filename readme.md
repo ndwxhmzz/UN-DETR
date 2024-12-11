@@ -111,11 +111,11 @@ sh eval.mix_ood.sh
 
 ## On coco_ood
 
-![image-20240820165900944](.\mdimg\image-20240820165900944.png)
+![image-20240820165900944](.\mdimg\result1.png)
 
 ## On coco-mixed
 
-![image-20240820165920949](.\mdimg\image-20240820165920949.png)
+![image-20240820165920949](.\mdimg\result2.png)
 
 ## Visualization Result
 
